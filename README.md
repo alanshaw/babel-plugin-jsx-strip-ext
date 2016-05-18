@@ -1,6 +1,6 @@
 # babel-plugin-jsx-strip-ext [![Build Status](https://img.shields.io/travis/alanshaw/babel-plugin-jsx-strip-ext/master.svg)](https://travis-ci.org/alanshaw/babel-plugin-jsx-strip-ext) [![Dependency Status](https://david-dm.org/alanshaw/babel-plugin-jsx-strip-ext.svg)](https://david-dm.org/alanshaw/babel-plugin-jsx-strip-ext)
 
-Strip .jsx extension from import sources.
+Strip `.jsx` extension from import sources.
 
 ## Example
 
