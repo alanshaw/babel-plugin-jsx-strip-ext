@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-jsx-strip-ext",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Strip .jsx extension from import sources",
   "main": "index.js",
   "scripts": {
