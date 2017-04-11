@@ -13,7 +13,7 @@ module.exports = function (babel) {
 
   return {
     visitor: {
-      ImportDeclaration: function (path) {
+      'ImportDeclaration|ExportNamedDeclaration': function (path) {
         path.traverse(sourceVisitor)
       }
     }
